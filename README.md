@@ -1,2 +1,2 @@
 # obot-the-dev
-Counter app
+Weather app
