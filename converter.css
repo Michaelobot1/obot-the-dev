@@ -1,0 +1,46 @@
+body{
+ font-weight: bolder;
+ font-size:15px;
+ background:#FFFFFF;
+}
+.container{
+ display: block;
+ background: #003A4C;
+ height:150px;
+ position: center;
+ border-radius: 1em;
+ text-align: center;
+ color: floralwhite;
+ text-transform:uppercase; 
+ margin:10px;
+}
+input{
+ color:#00695A;
+ font-size:15px;
+ font-weight:bold;
+ text-transform:uppercase;
+ width:50%;
+ margin-bottom:10px; 
+ border: none;
+ border-radius: 1em;
+}
+button{
+ width:20%;
+ margin-bottom: 10px;
+ color:#C50050;
+ font-size:10px;
+ font-weight:bolder;
+ text-transform:uppercase;
+ border:none;
+ border-radius: 1em;
+ 
+ 
+}
+#text{
+ text-align: center;
+
+ padding-bottom:10%;  
+}
+#myLabel,#myLabel2{
+
+}
